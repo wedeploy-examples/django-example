@@ -11,4 +11,4 @@ def index(request):
     return HttpResponse("Hello, world. You're at the polls index.")
 
 def wedeploy(request):
-    return HttpResponse("WeDeploy is awesome!")
+    return HttpResponse("Welcome to Django.")
