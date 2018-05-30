@@ -1,3 +1,5 @@
+[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/django-example)
+
 # Django
 
 A example of [Django](https://www.djangoproject.com/) on [WeDeploy](https://wedeploy.com/).
