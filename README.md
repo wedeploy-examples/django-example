@@ -6,9 +6,8 @@ A example of [Django](https://www.djangoproject.com/) on [WeDeploy](https://wede
 
 1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
 2. Clone this repository.
-3. Go to `/django-example/mysite/mysite/settings.py` and add the URL of your service (`serviceID-projectID.wedeploy.io`) to `ALLOWED_HOSTS`.
-4. Go to `/django-example`.
-5. Run `we deploy -p projectID -s serviceID`.
+3. Run `cd django-example/`.
+4. Run `we deploy -p projectID -s serviceID`.
 
 ## License
 

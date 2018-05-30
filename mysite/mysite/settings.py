@@ -28,7 +28,7 @@ DEBUG = True
 WEDEPLOY_DOMAIN = '.wedeploy.io'
 
 #ADD YOUR SERVICE URL HERE
-ALLOWED_HOSTS = ['localhost', 'site-django.wedeploy.io', 'django.wedeploy.io']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
