@@ -1,4 +1,7 @@
 {
     "id": "django",
-    "port": 8000
+    "port": 8000,
+    "healthCheck": {
+        "url": "localhost:8000"
+    }
 }
